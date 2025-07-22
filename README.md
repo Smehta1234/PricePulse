@@ -16,7 +16,6 @@ PricePulse is a modular and scalable price optimization engine designed to help 
 
 ## Project Structure
 
-'''
 PricePulse/
 ├── data/ # Raw and processed data
 ├── notebooks/ # Jupyter notebooks for exploration
@@ -34,9 +33,9 @@ PricePulse/
 ├── streamlit_app.py # Streamlit dashboard application
 ├── requirements.txt # Dependencies
 └── README.md
-'''
+
 ## Tech stack
-'''
+
 | Category      | Tools and Libraries                    |
 | ------------- | -------------------------------------- |
 | Language      | Python 3.10                            |
@@ -46,7 +45,7 @@ PricePulse/
 | Optimization  | scipy.optimize                         |
 | Dashboard     | Streamlit, matplotlib, seaborn, plotly |
 | Utilities     | json, csv, datetime                    |
-'''
+
 
 ## Future Enhancements
 Inventory-aware pricing and dynamic re-optimization
