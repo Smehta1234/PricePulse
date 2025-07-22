@@ -14,25 +14,6 @@ PricePulse is a modular and scalable price optimization engine designed to help 
 
 ---
 
-## Project Structure
-
-PricePulse/
-├── data/ # Raw and processed data
-├── notebooks/ # Jupyter notebooks for exploration
-├── pricepulse/ # Main Python package
-│ ├── init.py
-│ ├── api/ # API integration (optional or future use)
-│ ├── data_pipeline/ # Data ingestion and preprocessing logic
-│ ├── elasticity/ # Elasticity estimation models
-│ ├── forecasting/ # Forecasting models and logic
-│ ├── optimization/ # Revenue/profit maximization algorithms
-│ ├── simulation/ # Scenario simulation logic
-│ └── utils/ # Helper functions and shared utilities
-├── tests/ # Unit tests for different modules
-├── main.py # Entry point for running the pipeline
-├── streamlit_app.py # Streamlit dashboard application
-├── requirements.txt # Dependencies
-└── README.md
 
 ## Tech stack
 
